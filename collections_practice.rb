@@ -42,6 +42,9 @@ end
 #     end
 #   end 
 # end
+
+def add_s(array)
+  array.except("feet")
   
   
   
